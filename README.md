@@ -1,5 +1,6 @@
 # sd-webui-save-train-prompt
 save stable diffusion webui Last saved image prompt while training 
+保存训练中最后保存图片的参数，复制到控制台中使用
 # use
 use following code in console to save prompt(English ver) in localStroge
 ``` javascript
